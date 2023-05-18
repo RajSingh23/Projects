@@ -1,0 +1,25 @@
+has:legs
+has:hooves
+has:teeth
+has:mouth
+has:ears
+has:eyes
+has:hide
+has:humps
+has:tail
+has:endurance
+can:store water
+can:eat
+can:walk
+can:sleep
+can:be ridden
+is:tan
+is:gentle
+eats:grass
+eats:grains
+eats:wheat
+eats:oats
+weight:1500
+height:7
+length:10
+speed:40
