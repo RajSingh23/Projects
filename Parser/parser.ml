@@ -1,7 +1,7 @@
 (*
 
   This file contains definitions for the OCaml type THING, and the OCaml module
-  SCANNER, both of which are needed to write the module PARSER for Project 2.
+  SCANNER, both of which are needed to write the module PARSER.
 
 *)
 
